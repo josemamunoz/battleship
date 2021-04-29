@@ -11,7 +11,7 @@ en donde se encuentran  5 naves, cada nave utiliza una cantidad de celdas especi
 El tablero de 10x10 comienza con valores de "0" en cada <div> vacio, mientras que las naves
 comienzan con un valor de "1"
 
-![Capturabatleship](https://user-images.githubusercontent.com/63678589/116618834-9dad9580-a90d-11eb-944c-ebc721aecad3.JPG)
+![Capturabatleship](https://user-images.githubusercontent.com/63678589/116619019-e82f1200-a90d-11eb-9382-8c3a14ddc101.JPG)
 
 
 ## Como se juega
